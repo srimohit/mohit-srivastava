@@ -55,7 +55,7 @@ isinstance(s1,Student)
 
 class Student:
   def hello():
-    print('Hello Mohit')
+    print('Hello Mohit Srivastava')
 
 s1=Student()
 s1
@@ -82,7 +82,7 @@ so self is creating PlaceHolder for object , self represents object itself.
 
 example for list
 
-a=[1,2,3,4]
+a=[1,2,3]
 
 a.append(4)   # so what happens is a.append(a,4)
 
